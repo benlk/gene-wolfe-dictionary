@@ -1,0 +1,26 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "",
+      "path": "gene-wolfe-dict"
+    },
+    "live": {
+      "bucket": "",
+      "path": "gene-wolfe-dict"
+    }
+  },
+  "styles": {
+    "src/css/seed.less": "build/style.css"
+  },
+  "scripts": {
+    "src/js/main.js": "build/app.js"
+  },
+  "title": "Gene Wolfe Dictionary",
+  "description": "A dictionary of words used by Gene Wolfe",
+  "url": "",
+  "image": "assets/logo.png",
+  "sheets": [ "1-7IkSWqrSu3ZQ99SSVUbkfIW5FraYk336QtDcuU3XoQ" ],
+  "docs": [],
+  "embedded": false,
+  "production": false
+}
